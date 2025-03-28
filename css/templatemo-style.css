@@ -854,6 +854,14 @@ textarea.form-control {
   background-color: #fff;
   border-radius: 3px;
 }
+.filled-bar-full {
+  position: absolute;
+  z-index: 99;
+  width: 100%;
+  height: 6px;
+  background-color: #fff;
+  border-radius: 3px;
+}
 
 .black-ground{
   
